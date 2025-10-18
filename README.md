@@ -1,6 +1,6 @@
 
 # Lua Helper
-
+Este bot é privado, portanto você pode fazer **Self-Hosting.**
 Bot do Discord com comandos de ban/unban e funções administrativas.
 
 ## Self Hosting
